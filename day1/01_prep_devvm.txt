@@ -1,0 +1,20 @@
+1. 클라우드 쉘에 create-win11-dev.ps1 업로드 후 실행
+pw: Pa55w.rd1234
+
+2. vmwin11dev 원격 데스크톱 접속
+
+3. Azure CLI 설치
+https://docs.microsoft.com/ko-kr/cli/azure/install-azure-cli-windows?tabs=azure-cli
+
+4. Azure CLI 설치 확인
+- Windows Terminal 실행
+- 버전 확인
+az --version
+
+5. Node.js 18.14 LTS 설치
+https://nodejs.org/ko/
+
+6. Node.js 설치 확인
+- Windows Terminal 종료 후 실행
+- 버전 확인
+node --version

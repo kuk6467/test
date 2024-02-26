@@ -1,0 +1,11 @@
+#1. Visual Studio Code 시스템 인스톨러 다운로드
+https://code.visualstudio.com/Download
+
+#2. VS Code 설치
+Select Additional Tasks --> Select all
+
+#3. 확장 설치
+- Azure Account
+- Azure CLI Tools
+- Powershell
+- Docker
